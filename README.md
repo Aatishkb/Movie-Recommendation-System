@@ -1,7 +1,10 @@
-# Project Aim
+# Movie Recommendation System
+
+# Project Aim: 
 - The aim of this project is to develop a movie recommendation system that suggests movies to users based on certain criteria and user preferences. By analyzing a dataset of movies, the system will utilize various data science techniques to recommend movies that align with user tastes.
 
-# Implementation Steps
+# Implementation Steps:
+
 ### 1. Importing Required Libraries
 
 - import numpy as np
